@@ -1,0 +1,3 @@
+[submodule "ttk4145-sanntidsprogrammering/TTK4145-Elevator"]
+	path = ttk4145-sanntidsprogrammering/TTK4145-Elevator
+	url = https://github.com/HaavardM/TTK4145-Elevator.git
